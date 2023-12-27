@@ -9,7 +9,7 @@ I am a Frontend Engineer
 [![My Skills](https://skillicons.dev/icons?i=nextjs,gulp,sass,webpack,git)](https://skillicons.dev)
 
 #### Find me on
-[![My Skills](https://skillicons.dev/icons?i=linkedin)]([https://skillicons.dev](https://www.linkedin.com/in/esmotara-rima/))
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/esmotara-rima/)
 
 
 
